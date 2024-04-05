@@ -1,0 +1,20 @@
+propiedad para cabiar el color del texto es color
+para titulo es h1
+
+para tamaño feunte es font-sixe
+etiqueta para comentario es <!
+para link es a
+para insertar el scr
+es img scr""
+lista orddenad es ol
+desordenada ul
+todos los elementos es *
+altura de una elemento height 
+boostrap un frame..
+enlazar 
+para rejilla es .row
+PS E:\3ER SEMESTRE\Programación Web\AAAAAA+> git config --global user.name "noelita10"
+PS E:\3ER SEMESTRE\Programación Web\AAAAAA+> git config --global user.email "noe.cortes@duocuc.cl"
+PS E:\3ER SEMESTRE\Programación Web\AAAAAA+> 
+
+
